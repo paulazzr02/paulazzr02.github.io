@@ -1,9 +1,15 @@
 # main links
 main:
   - title: "Home"
-    url: /
-  - title: "Category"
-    url: /category/
+    url: https://paulazzr02.github.io
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
