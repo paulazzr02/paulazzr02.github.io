@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name: "Paulazzr02"
-  avatar: "/assets/images/kkr_character_s.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/avatar_front.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Web publisher <br> UI Developer"
   location: "Republic of Korea"
   email: "paulazzr02@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:paulazzr02@gmail.com"
+      #url: "mailto:paulazzr02@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
